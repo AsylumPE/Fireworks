@@ -10,6 +10,7 @@ use BlockHorizons\Fireworks\entity\FireworksRocket;
 use pocketmine\entity\Entity;
 use pocketmine\item\Item;
 use pocketmine\item\ItemFactory;
+use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\plugin\PluginBase;
 
 class Loader extends PluginBase {
